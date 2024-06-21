@@ -31,7 +31,7 @@ def afas(request):
 
     
     session = requests.Session()
-    getconnector = 'BI_SalesOrderLineItems?take=1000000'
+    getconnector = 'BI_SalesOrderLineItems?take=700000'
     
 
 
